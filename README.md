@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhanu-pratap-2573a7378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanu-pratap-2573a7378" height="30" width="40" /></a>
-<a href="https://instagram.com/bhanu_pratap17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhanu_pratap17" height="30" width="40" /></a>
+<a href="https://instagram.com/bhanu.pratap17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhanu_pratap17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/n2sz2dqxuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n2sz2dqxuw" height="30" width="40" /></a>
 </p>
 
